@@ -1,16 +1,17 @@
-### Hi there 👋
+### Jieun's Git Hub
 
-<!--
-**chlwldms/chlwldms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who Am I
+- 🌱 I’m currently learning about software
+- 🥇 I'm attending Gachon University
+- 🚅 My hometown is Goyang, Gyeonggi-do in Korea
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Like
+- 🎵 Song (Jannabi)
+- 🌸 Spring
+- 🍕 Food
+
+### Contact
+- 📤 Mail : ji4722@gachon.ac.kr
+- 📞 Phone : 010-3157-4722
+- 👩‍💻 Instagram : @gini.__.1031
